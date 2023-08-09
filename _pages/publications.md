@@ -35,7 +35,7 @@ Blockchain Security
 -	Zhelei Zhou, Xinle Cao, **Jian Liu\***, BingSheng Zhang*, Kui Ren. *Zero Knowledge Contingent Payments for Trained Neural Networks*. Esorics '21
 -	Yujin Kwon, **Jian Liu**, Minjeong Kim, Dawn Song and Yongdae Kim. *Impossibility of Full Decentralization in Permissionless Blockchains*. AFT '19
 -	**Jian Liu**, Wenting Li, Ghassan O Karame, N. Asokan. *Scalable Byzantine Consensus via Hardware-assisted Secret Sharing*. IEEE Trans. Computers 2019 **(Best Paper Award)**<span class="tag tag-a">CCF A</span>
--	**Jian Liu**, Wenting Li, Ghassan O Karame, N. Asokan. Towards Fairness of Cryptocurrency Payments. IEEE Security & Privacy 2018
+-	**Jian Liu**, Wenting Li, Ghassan O Karame, N. Asokan. *Towards Fairness of Cryptocurrency Payments*. IEEE Security & Privacy 2018
 
 
 
