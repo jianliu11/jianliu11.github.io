@@ -32,7 +32,7 @@ Blockchain Security
 
 -	**Jian Liu**, Peilun Li, Raymond Cheng, N. Asokan, Dawn Song. *Parallel and Asynchronous Smart Contract Execution*. IEEE Trans. Parallel and Distributed Systems 2021<span class="tag tag-a">CCF A</span>
 -	**Jian Liu** and Kui Ren. *Improving Blockchains with Client-Assistance*. IEEE Trans. Computers 2021<span class="tag tag-a">CCF A</span>
--	Zhelei Zhou, Xinle Cao, **Jian Liu\***, BingSheng Zhang*, Kui Ren. Zero Knowledge Contingent Payments for Trained Neural Networks. Esorics '21
+-	Zhelei Zhou, Xinle Cao, **Jian Liu\***, BingSheng Zhang*, Kui Ren. *Zero Knowledge Contingent Payments for Trained Neural Networks*. Esorics '21
 -	Yujin Kwon, **Jian Liu**, Minjeong Kim, Dawn Song and Yongdae Kim. *Impossibility of Full Decentralization in Permissionless Blockchains*. AFT '19
 -	**Jian Liu**, Wenting Li, Ghassan O Karame, N. Asokan. *Scalable Byzantine Consensus via Hardware-assisted Secret Sharing*. IEEE Trans. Computers 2019 **(Best Paper Award)**<span class="tag tag-a">CCF A</span>
 -	**Jian Liu**, Wenting Li, Ghassan O Karame, N. Asokan. Towards Fairness of Cryptocurrency Payments. IEEE Security & Privacy 2018
