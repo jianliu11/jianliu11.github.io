@@ -20,7 +20,7 @@ Applied Cryptography
 AI Security
 ------
 
--	**Jian Liu**, Rui Zhang, Sebastian Szyller, Kui Ren, N. Asokan. *False Claims against Model Ownership Resolution*. under submission.<span class="tag tag-a">CCF A</span>
+-	**Jian Liu**, Rui Zhang, Sebastian Szyller, Kui Ren, N. Asokan. *False Claims against Model Ownership Resolution*. under submission.
 -	Sebastian Szyller, Rui Zhang, **Jian Liu**, N Asokan. *On the Robustness of Dataset Inference*. TMLR '23
 -	Zhihua Tian, Rui Zhang, Xiaoyang Hou, **Jian Liu\***, Kui Ren. *FedderBoost: Private Federated Learning for GBDT*. TDSC '23<span class="tag tag-a">CCF A</span>
 -	Rui Zhang, **Jian Liu\***, Yuan Ding, Zhibo Wang, Qingbiao Wu, Kui Ren. *"Adversarial Examples" for Proof-of-Learning*. Oakland '22<span class="tag tag-a">CCF A</span>
