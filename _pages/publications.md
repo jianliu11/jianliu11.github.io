@@ -8,6 +8,7 @@ author_profile: true
 Applied Cryptography
 ------
 
+-	Xiaoyang Hou, **Jian Liu\***, Jingyu Li, Yuhan Li, Wen-jie Lu, Cheng Hong, Kui Ren. *[CipherGPT: Secure Two-Party GPT Inference](https://eprint.iacr.org/2023/1147)*. under submission
 -	**Jian Liu\***, Jingyu Li, Di Wu, Kui Ren. *[PIRANA: Faster Multi-query PIR via Constant-weight Codes](https://eprint.iacr.org/2022/1401)*. **IEEE S&P (Oakland) 2023**<span class="tag tag-a">CCF A</span>
 -	Xinle Cao, **Jian Liu\***, Yongsheng Shen, Xiaohua Ye, Kui Ren. *[Frequency-revealing attacks against Frequency-hiding Order-preserving Encryption](https://eprint.iacr.org/2023/1122)*. VLDB 2023<span class="tag tag-a">CCF A</span>
 -	Xinle Cao, **Jian Liu\***, Hao Lu, Kui Ren. *[Cryptanalysis of An Encrypted Database In SIGMOD '14](http://vldb.org/pvldb/vol14/p1743-liu.pdf)*. VLDB 2021<span class="tag tag-a">CCF A</span>
@@ -20,7 +21,7 @@ Applied Cryptography
 AI Security
 ------
 
--	**Jian Liu**, Rui Zhang, Sebastian Szyller, Kui Ren, N. Asokan. *False Claims against Model Ownership Resolution*. under submission.
+-	**Jian Liu**, Rui Zhang, Sebastian Szyller, Kui Ren, N. Asokan. *[False Claims against Model Ownership Resolution](https://arxiv.org/abs/2304.06607)*. under submission
 -	Sebastian Szyller, Rui Zhang, **Jian Liu**, N Asokan. *On the Robustness of Dataset Inference*. TMLR '23
 -	Zhihua Tian, Rui Zhang, Xiaoyang Hou, **Jian Liu\***, Kui Ren. *FedderBoost: Private Federated Learning for GBDT*. TDSC '23<span class="tag tag-a">CCF A</span>
 -	Rui Zhang, **Jian Liu\***, Yuan Ding, Zhibo Wang, Qingbiao Wu, Kui Ren. *"Adversarial Examples" for Proof-of-Learning*. Oakland '22<span class="tag tag-a">CCF A</span>
