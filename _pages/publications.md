@@ -14,8 +14,8 @@ Applied Cryptography
 -	Agnes Kiss, Masoud Naderpour, **Jian Liu**, N. Asokan and Thomas Schneider. *[SoK: Modular and Efficient Private Decision Tree Evaluation](https://eprint.iacr.org/2018/1099)*. PETS 2019
 -	**Jian Liu**, Mika Juuti, Yao Lu, N. Asokan. *[Oblivious Neural Network Predictions via MiniONN Transformations](https://eprint.iacr.org/2017/452)*. **ACM CCS 2017**<span class="tag tag-a">CCF A</span>
 -	Agnes Kiss, **Jian Liu**, Thomas Schneider, N. Asokan, Benny Pinkas. *[Private Set Intersection for Unequal Set Sizes with Mobile Applications](https://eprint.iacr.org/2017/670)*. PETS 2017
--	Sandeep Tamrakar, **Jian Liu**, Andrew Paverd, Jan-Erik Ekberg, Benny Pinkas, N. Asokan. *[The Circle Game: Scalable Private Membership Test Using Trusted Hardware](https://arxiv.org/abs/1606.01655)*. ASIACCS 2017<span class="tag tag-e">Honorable Mention</span><span class="tag tag-c">CSAW Europe (top 10)</span>
--	**Jian Liu**, N. Asokan and Benny Pinkas. *Secure Deduplication of Encrypted Data without Additional Independent Servers*. **ACM CCS 2015**<span class="tag tag-a">CCF A</span><span class="tag tag-d">OlympusMons Pioneer Award</span>
+-	Sandeep Tamrakar, **Jian Liu**, Andrew Paverd, Jan-Erik Ekberg, Benny Pinkas, N. Asokan. *[The Circle Game: Scalable Private Membership Test Using Trusted Hardware](https://arxiv.org/abs/1606.01655)*. ASIACCS 2017<span class="tag tag-c">Honorable Mention</span><span class="tag tag-c">CSAW Europe (top 10)</span>
+-	**Jian Liu**, N. Asokan and Benny Pinkas. *[Secure Deduplication of Encrypted Data without Additional Independent Servers](https://eprint.iacr.org/2015/455)*. **ACM CCS 2015**<span class="tag tag-a">CCF A</span><span class="tag tag-c">OlympusMons Pioneer Award</span>
 
 AI Security
 ------
