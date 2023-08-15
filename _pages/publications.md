@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+(\* corresponding author)
 
 Applied Cryptography
 ------
@@ -21,7 +22,7 @@ Applied Cryptography
 AI Security
 ------
 
--	**Jian Liu**, Rui Zhang, Sebastian Szyller, Kui Ren, N. Asokan. *[False Claims against Model Ownership Resolution](https://arxiv.org/abs/2304.06607)*. under submission
+-	**Jian Liu\***, Rui Zhang, Sebastian Szyller, Kui Ren, N. Asokan. *[False Claims against Model Ownership Resolution](https://arxiv.org/abs/2304.06607)*. under submission
 -	Sebastian Szyller, Rui Zhang, **Jian Liu**, N Asokan. *[On the Robustness of Dataset Inference](https://arxiv.org/abs/2210.13631)*. TMLR 2023
 -	Zhihua Tian, Rui Zhang, Xiaoyang Hou, **Jian Liu\***, Kui Ren. *[FedderBoost: Private Federated Learning for GBDT](https://arxiv.org/abs/2011.02796)*. TDSC 2023<span class="tag tag-a">CCF A</span>
 -	Rui Zhang, **Jian Liu\***, Yuan Ding, Zhibo Wang, Qingbiao Wu, Kui Ren. *["Adversarial Examples" for Proof-of-Learning](https://arxiv.org/abs/2108.09454)*. **IEEE S&P (Oakland) 2022**<span class="tag tag-a">CCF A</span>
@@ -31,12 +32,13 @@ AI Security
 Blockchain Security
 ------
 
--	**Jian Liu**, Peilun Li, Raymond Cheng, N. Asokan, Dawn Song. *Parallel and Asynchronous Smart Contract Execution*. IEEE Trans. Parallel and Distributed Systems 2021<span class="tag tag-a">CCF A</span>
--	**Jian Liu** and Kui Ren. *Improving Blockchains with Client-Assistance*. IEEE Trans. Computers 2021<span class="tag tag-a">CCF A</span>
--	Zhelei Zhou, Xinle Cao, **Jian Liu\***, BingSheng Zhang*, Kui Ren. *Zero Knowledge Contingent Payments for Trained Neural Networks*. Esorics '21
--	Yujin Kwon, **Jian Liu**, Minjeong Kim, Dawn Song and Yongdae Kim. *Impossibility of Full Decentralization in Permissionless Blockchains*. AFT '19
--	**Jian Liu**, Wenting Li, Ghassan O Karame, N. Asokan. *Scalable Byzantine Consensus via Hardware-assisted Secret Sharing*. IEEE Trans. Computers 2019 **(Best Paper Award)**<span class="tag tag-a">CCF A</span>
--	**Jian Liu**, Wenting Li, Ghassan O Karame, N. Asokan. *Towards Fairness of Cryptocurrency Payments*. IEEE Security & Privacy 2018
+-	Hao Lu, **Jian Liu\***, Kui Ren. *[Arena: Multi-leader Synchronous Byzantine Fault Tolerance](https://eprint.iacr.org/2023/1171)*. under submission
+-	**Jian Liu**, Peilun Li, Raymond Cheng, N. Asokan, Dawn Song. *[Parallel and Asynchronous Smart Contract Execution](https://arxiv.org/pdf/2306.05007.pdf)*. TPDS 2021<span class="tag tag-a">CCF A</span>
+-	**Jian Liu** and Kui Ren. *[Improving Blockchains with Client-Assistance](https://ieeexplore.ieee.org/document/9399833)*. TC 2021<span class="tag tag-a">CCF A</span>
+-	Zhelei Zhou, Xinle Cao, **Jian Liu\***, BingSheng Zhang*, Kui Ren. *[Zero Knowledge Contingent Payments for Trained Neural Networks](https://eprint.iacr.org/2021/594)*. Esorics 2021
+-	Yujin Kwon, **Jian Liu**, Minjeong Kim, Dawn Song and Yongdae Kim. *[Impossibility of Full Decentralization in Permissionless Blockchains](https://arxiv.org/abs/1905.05158)*. AFT 2019
+-	**Jian Liu**, Wenting Li, Ghassan O Karame, N. Asokan. *[Scalable Byzantine Consensus via Hardware-assisted Secret Sharing](https://ieeexplore.ieee.org/document/8419336)*. TC 2019<span class="tag tag-a">CCF A</span><span class="tag tag-c">Best Paper Award</span>
+-	**Jian Liu**, Wenting Li, Ghassan O Karame, N. Asokan. *[Towards Fairness of Cryptocurrency Payments](https://ieeexplore.ieee.org/document/8395135)*. IEEE Security & Privacy 2018
 
 
 
