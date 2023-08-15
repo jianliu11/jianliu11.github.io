@@ -27,5 +27,5 @@ I am the director of [ABC Lab](https://zju-abc.com).
 
 Job Openings
 ======
-I am always looking for postdoc, PhD, master and undergraduate students, who are <span style = “text-decoration：underline;” >passionate about research</span> and <span style = “text-decoration：underline;” >with solid system building skills</span>.
+I am always looking for postdoc, PhD, master and undergraduate students, who are <u>passionate about research</u> and <u>with solid system building skills</u>.
 Please feel free to [contact me](liujian2411@zju.edu.cn) if interested.
