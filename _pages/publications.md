@@ -8,13 +8,13 @@ author_profile: true
 Applied Cryptography
 ------
 
--	**Jian Liu\***, Jingyu Li, Di Wu, Kui Ren. *[PIRANA: Faster Multi-query PIR via Constant-weight Codes](https://eprint.iacr.org/2022/1401)*. **IEEE S&P (Oakland) '23**<span class="tag tag-a">CCF A</span>
--	Xinle Cao, **Jian Liu\***, Yongsheng Shen, Xiaohua Ye, Kui Ren. *[Frequency-revealing attacks against Frequency-hiding Order-preserving Encryption](https://eprint.iacr.org/2023/1122)*. VLDB '23<span class="tag tag-a">CCF A</span>
--	Xinle Cao, **Jian Liu\***, Hao Lu, Kui Ren. *[Cryptanalysis of An Encrypted Database In SIGMOD '14](http://vldb.org/pvldb/vol14/p1743-liu.pdf)*. VLDB '21<span class="tag tag-a">CCF A</span>
--	Agnes Kiss, Masoud Naderpour, **Jian Liu**, N. Asokan and Thomas Schneider. *SoK: Modular and Efficient Private Decision Tree Evaluation*. PETS '19
--	**Jian Liu**, Mika Juuti, Yao Lu, N. Asokan. *Oblivious Neural Network Predictions via MiniONN Transformations*. CCS '17<span class="tag tag-a">CCF A</span>
--	Agnes Kiss, **Jian Liu**, Thomas Schneider, N. Asokan, Benny Pinkas. *Private Set Intersection for Unequal Set Sizes with Mobile Applications*. PETS '17
--	Sandeep Tamrakar, **Jian Liu**, Andrew Paverd, Jan-Erik Ekberg, Benny Pinkas, N. Asokan. *The Circle Game: Scalable Private Membership Test Using Trusted Hardware*. ASIACCS '17 **(Honorable Mention) CSAW Europe (top 10)**
+-	**Jian Liu\***, Jingyu Li, Di Wu, Kui Ren. *[PIRANA: Faster Multi-query PIR via Constant-weight Codes](https://eprint.iacr.org/2022/1401)*. **IEEE S&P (Oakland) 2023**<span class="tag tag-a">CCF A</span>
+-	Xinle Cao, **Jian Liu\***, Yongsheng Shen, Xiaohua Ye, Kui Ren. *[Frequency-revealing attacks against Frequency-hiding Order-preserving Encryption](https://eprint.iacr.org/2023/1122)*. VLDB 2023<span class="tag tag-a">CCF A</span>
+-	Xinle Cao, **Jian Liu\***, Hao Lu, Kui Ren. *[Cryptanalysis of An Encrypted Database In SIGMOD '14](http://vldb.org/pvldb/vol14/p1743-liu.pdf)*. VLDB 2021<span class="tag tag-a">CCF A</span>
+-	Agnes Kiss, Masoud Naderpour, **Jian Liu**, N. Asokan and Thomas Schneider. *[SoK: Modular and Efficient Private Decision Tree Evaluation](https://eprint.iacr.org/2018/1099)*. PETS 2019
+-	**Jian Liu**, Mika Juuti, Yao Lu, N. Asokan. *[Oblivious Neural Network Predictions via MiniONN Transformations](https://eprint.iacr.org/2017/452)*. **ACM CCS 2017**<span class="tag tag-a">CCF A</span>
+-	Agnes Kiss, **Jian Liu**, Thomas Schneider, N. Asokan, Benny Pinkas. *[Private Set Intersection for Unequal Set Sizes with Mobile Applications](https://eprint.iacr.org/2017/670)*. PETS 2017
+-	Sandeep Tamrakar, **Jian Liu**, Andrew Paverd, Jan-Erik Ekberg, Benny Pinkas, N. Asokan. *[The Circle Game: Scalable Private Membership Test Using Trusted Hardware](https://arxiv.org/abs/1606.01655)*. ASIACCS 2017<span class="tag tag-b">Honorable Mention</span> **CSAW Europe (top 10)**
 -	**Jian Liu**, N. Asokan and Benny Pinkas. *Secure Deduplication of Encrypted Data without Additional Independent Servers*. CCS '15<span class="tag tag-a">CCF A</span>
 
 AI Security
