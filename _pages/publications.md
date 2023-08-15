@@ -9,7 +9,7 @@ Applied Cryptography
 ------
 
 -	**Jian Liu\***, Jingyu Li, Di Wu, Kui Ren. *[PIRANA: Faster Multi-query PIR via Constant-weight Codes](https://eprint.iacr.org/2022/1401)*. **IEEE S&P (Oakland) '23**<span class="tag tag-a">CCF A</span>
--	Xinle Cao, **Jian Liu\***, Yongsheng Shen, Xiaohua Ye, Kui Ren. *Frequency-revealing attacks against Frequency-hiding Order-preserving Encryption*. VLDB '23<span class="tag tag-a">CCF A</span>
+-	Xinle Cao, **Jian Liu\***, Yongsheng Shen, Xiaohua Ye, Kui Ren. *[Frequency-revealing attacks against Frequency-hiding Order-preserving Encryption](https://eprint.iacr.org/2023/1122)*. VLDB '23<span class="tag tag-a">CCF A</span>
 -	Xinle Cao, **Jian Liu\***, Hao Lu, Kui Ren. *Cryptanalysis of An Encrypted Database In SIGMOD '14*. VLDB '21<span class="tag tag-a">CCF A</span>
 -	Agnes Kiss, Masoud Naderpour, **Jian Liu**, N. Asokan and Thomas Schneider. *SoK: Modular and Efficient Private Decision Tree Evaluation*. PETS '19
 -	**Jian Liu**, Mika Juuti, Yao Lu, N. Asokan. *Oblivious Neural Network Predictions via MiniONN Transformations*. CCS '17<span class="tag tag-a">CCF A</span>
