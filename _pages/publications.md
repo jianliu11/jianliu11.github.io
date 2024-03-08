@@ -9,6 +9,7 @@ author_profile: true
 Applied Cryptography
 ------
 
+-	Jiawen Zhang, **Jian Liu\***, Xinpeng Yang, Yinghao Wang, Kejia Chen, Xiaoyang Hou, Kui Ren, Xiaohu Yang. *[Secure Transformer Inference Made Non-interactive](https://eprint.iacr.org/2024/136.pdf)*. under submission
 -	Xiaoyang Hou, **Jian Liu\***, Jingyu Li, Yuhan Li, Wen-jie Lu, Cheng Hong, Kui Ren. *[CipherGPT: Secure Two-Party GPT Inference](https://eprint.iacr.org/2023/1147)*. under submission
 -	**Jian Liu\***, Jingyu Li, Di Wu, Kui Ren. *[PIRANA: Faster Multi-query PIR via Constant-weight Codes](https://eprint.iacr.org/2022/1401)*. **IEEE S&P (Oakland) 2024**<span class="tag tag-a">CCF A</span>
 -	Xinle Cao, **Jian Liu\***, Yongsheng Shen, Xiaohua Ye, Kui Ren. *[Frequency-revealing attacks against Frequency-hiding Order-preserving Encryption](https://eprint.iacr.org/2023/1122)*. VLDB 2023<span class="tag tag-a">CCF A</span>
