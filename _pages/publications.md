@@ -11,7 +11,9 @@ Applied Cryptography
 
 -	Jiawen Zhang, **Jian Liu\***, Xinpeng Yang, Yinghao Wang, Kejia Chen, Xiaoyang Hou, Kui Ren, Xiaohu Yang. *[Secure Transformer Inference Made Non-interactive](https://eprint.iacr.org/2024/136.pdf)*. under submission
 -	Xiaoyang Hou, **Jian Liu\***, Jingyu Li, Yuhan Li, Wen-jie Lu, Cheng Hong, Kui Ren. *[CipherGPT: Secure Two-Party GPT Inference](https://eprint.iacr.org/2023/1147)*. under submission
+-	Xinle Cao, **Jian Liu\***, Hao Lu, Yan Liu, Weixin Liu, Tao Wei, Kui Ren. *[On the Interoperability of Encrypted Databases]([https://eprint.iacr.org/2023/1969](https://ieeexplore.ieee.org/abstract/document/10588984))*. TDSC 2024<span class="tag tag-a">CCF A</span>
 -	**Jian Liu\***, Jingyu Li, Di Wu, Kui Ren. *[PIRANA: Faster Multi-query PIR via Constant-weight Codes](https://eprint.iacr.org/2022/1401)*. **IEEE S&P (Oakland) 2024**<span class="tag tag-a">CCF A</span>
+-	Xinle Cao, Yuhan Li, Dmytro Bogatov, **Jian Liu\***, Kui Ren. *[Secure and Practical Functional Dependency Discovery in Outsourced Databases](https://eprint.iacr.org/2023/1969)*. ICDE 2024<span class="tag tag-a">CCF A</span>
 -	Xinle Cao, **Jian Liu\***, Yongsheng Shen, Xiaohua Ye, Kui Ren. *[Frequency-revealing attacks against Frequency-hiding Order-preserving Encryption](https://eprint.iacr.org/2023/1122)*. VLDB 2023<span class="tag tag-a">CCF A</span>
 -	Xinle Cao, **Jian Liu\***, Hao Lu, Kui Ren. *[Cryptanalysis of An Encrypted Database In SIGMOD '14](http://vldb.org/pvldb/vol14/p1743-liu.pdf)*. VLDB 2021<span class="tag tag-a">CCF A</span>
 -	Agnes Kiss, Masoud Naderpour, **Jian Liu**, N. Asokan and Thomas Schneider. *[SoK: Modular and Efficient Private Decision Tree Evaluation](https://eprint.iacr.org/2018/1099)*. PETS 2019
@@ -34,6 +36,7 @@ Blockchain Security
 ------
 
 -	Hao Lu, **Jian Liu\***, Kui Ren. *[Arena: Multi-leader Synchronous Byzantine Fault Tolerance](https://eprint.iacr.org/2023/1171)*. under submission
+-	**Jian Liu\***, Peilun Li, Fan Zhang, Kui Ren. *[monoCash: A Channel-Free Payment Network Via Trusted Monotonic Counters](https://ieeexplore.ieee.org/abstract/document/10416274)*. TDSC 2024<span class="tag tag-a">CCF A</span>
 -	**Jian Liu**, Peilun Li, Raymond Cheng, N. Asokan, Dawn Song. *[Parallel and Asynchronous Smart Contract Execution](https://arxiv.org/pdf/2306.05007.pdf)*. TPDS 2021<span class="tag tag-a">CCF A</span>
 -	**Jian Liu** and Kui Ren. *[Improving Blockchains with Client-Assistance](https://ieeexplore.ieee.org/document/9399833)*. TC 2021<span class="tag tag-a">CCF A</span>
 -	Zhelei Zhou, Xinle Cao, **Jian Liu\***, Bingsheng Zhang, Kui Ren. *[Zero Knowledge Contingent Payments for Trained Neural Networks](https://eprint.iacr.org/2021/594)*. Esorics 2021
