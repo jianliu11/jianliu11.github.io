@@ -9,8 +9,8 @@ author_profile: true
 Applied Cryptography
 ------
 
--	Jiawen Zhang, **Jian Liu\***, Xinpeng Yang, Yinghao Wang, Kejia Chen, Xiaoyang Hou, Kui Ren, Xiaohu Yang. *[Secure Transformer Inference Made Non-interactive](https://eprint.iacr.org/2024/136.pdf)*. under submission
 -	Xiaoyang Hou, **Jian Liu\***, Jingyu Li, Yuhan Li, Wen-jie Lu, Cheng Hong, Kui Ren. *[CipherGPT: Secure Two-Party GPT Inference](https://eprint.iacr.org/2023/1147)*. under submission
+-	Jiawen Zhang, Xinpeng Yang, Lipeng He, Kejia Chen, Wen-jie Lu, Yinghao Wang,  Xiaoyang Hou, **Jian Liu\***, Kui Ren, Xiaohu Yang. *[Secure Transformer Inference Made Non-interactive](https://eprint.iacr.org/2024/136.pdf)*. **NDSS 2025**<span class="tag tag-a">CCF A</span>
 -	Xinle Cao, **Jian Liu\***, Hao Lu, Yan Liu, Weixin Liu, Tao Wei, Kui Ren. *[On the Interoperability of Encrypted Databases](https://ieeexplore.ieee.org/abstract/document/10588984)*. TDSC 2024<span class="tag tag-a">CCF A</span>
 -	**Jian Liu\***, Jingyu Li, Di Wu, Kui Ren. *[PIRANA: Faster Multi-query PIR via Constant-weight Codes](https://eprint.iacr.org/2022/1401)*. **IEEE S&P (Oakland) 2024**<span class="tag tag-a">CCF A</span>
 -	Xinle Cao, Yuhan Li, Dmytro Bogatov, **Jian Liu\***, Kui Ren. *[Secure and Practical Functional Dependency Discovery in Outsourced Databases](https://eprint.iacr.org/2023/1969)*. ICDE 2024<span class="tag tag-a">CCF A</span>
