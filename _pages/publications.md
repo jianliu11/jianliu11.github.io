@@ -31,7 +31,7 @@ AI Security
 
 Blockchain Security
 ------
-- Di Wu, Shoupeng Ren, Yuman Bai, Lipeng He, **Jian Liu\***, Wu Wen, Kui Ren, Chun Chen.*[On the Atomicity and Efficiency Blockchain Payment Channels](https://eprint.iacr.org/2025/180)*. **Usenix Security 2025**<span class="tag tag-a">CCF A</span>
+- Di Wu, Shoupeng Ren, Yuman Bai, Lipeng He, **Jian Liu\***, Wu Wen, Kui Ren, Chun Chen. *[On the Atomicity and Efficiency Blockchain Payment Channels](https://eprint.iacr.org/2025/180)*. **Usenix Security 2025**<span class="tag tag-a">CCF A</span>
 - Shoupeng Ren, Lipeng He, Tianyu Tu, Di Wu, **Jian Liu\***, Kui Ren, Chun Chen. *[LookAhead: Preventing DeFi Attacks via Unveiling Adversarial Contracts](https://arxiv.org/abs/2401.07261)*. FSE 2025<span class="tag tag-a">CCF A</span>
 -	Hao Lu, **Jian Liu\***, Kui Ren. *[Aurora: Leaderless State-Machine Replication with High Throughput](https://eprint.iacr.org/2023/1463)*. TC 2025<span class="tag tag-a">CCF A</span>
 -	**Jian Liu\***, Peilun Li, Fan Zhang, Kui Ren. *[monoCash: A Channel-Free Payment Network Via Trusted Monotonic Counters](https://ieeexplore.ieee.org/abstract/document/10416274)*. TDSC 2024<span class="tag tag-a">CCF A</span>
