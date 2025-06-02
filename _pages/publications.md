@@ -23,6 +23,8 @@ Secure Inference
 AI Security
 ------
 - Zhihua Tian, Yuan Ding, Xiang Yu, Enchao Gong, Jiaheng Zhang, **Jian Liu\***, Kui Ren. *[Towards Collaborative Anti-Money Laundering Among Financial Institutions](https://arxiv.org/abs/2502.19952)*. WWW 2025<span class="tag tag-a">CCF A</span>
+- Rui Zhang, Xiaoyang Hou, Zhihua Tian, Yan He, Enchao Gong, **Jian Liu\***, Qingbiao Wu, Kui Ren.
+*[Attributed Graph Clustering in Collaborative Settings](https://ieeexplore.ieee.org/document/10819617)*. TDSC 2025<span class="tag tag-a">CCF A</span>
 -	**Jian Liu\***, Rui Zhang, Sebastian Szyller, Kui Ren, N. Asokan. *[False Claims against Model Ownership Resolution](https://arxiv.org/abs/2304.06607)*. **Usenix Security 2024**<span class="tag tag-a">CCF A</span>
 -	Sebastian Szyller, Rui Zhang, **Jian Liu**, N Asokan. *[On the Robustness of Dataset Inference](https://arxiv.org/abs/2210.13631)*. TMLR 2023
 -	Zhihua Tian, Rui Zhang, Xiaoyang Hou, **Jian Liu\***, Kui Ren. *[FedderBoost: Private Federated Learning for GBDT](https://arxiv.org/abs/2011.02796)*. TDSC 2023<span class="tag tag-a">CCF A</span>
@@ -45,6 +47,7 @@ Blockchain Security
 Cloud Security
 ------
 - Xinle Cao, Weiqi Feng, **Jian Liu\***, Jinjin Zhou, Wenjing Fang, Lei Wang, Quanqing Xu, Chuanhui Yang, Kui Ren. *[Towards Practical Oblivious Map](https://eprint.iacr.org/2024/1650)*. VLDB 2025<span class="tag tag-a">CCF A</span>
+- Xiaoyang Hou, **Jian Liu\***, Tianyu Tu, Rui Zhang, Kui Ren. *[PrivRE: Regular Expression Matching for Encrypted Packet Inspection](https://ieeexplore.ieee.org/document/10630910)*. ICDCS 2024
 -	Xinle Cao, **Jian Liu\***, Hao Lu, Yan Liu, Weixin Liu, Tao Wei, Kui Ren. *[On the Interoperability of Encrypted Databases](https://ieeexplore.ieee.org/abstract/document/10588984)*. TDSC 2024<span class="tag tag-a">CCF A</span>
 -	Xinle Cao, Yuhan Li, Dmytro Bogatov, **Jian Liu\***, Kui Ren. *[Secure and Practical Functional Dependency Discovery in Outsourced Databases](https://eprint.iacr.org/2023/1969)*. ICDE 2024<span class="tag tag-a">CCF A</span>
 -	Xinle Cao, **Jian Liu\***, Yongsheng Shen, Xiaohua Ye, Kui Ren. *[Frequency-revealing attacks against Frequency-hiding Order-preserving Encryption](https://eprint.iacr.org/2023/1122)*. VLDB 2023<span class="tag tag-a">CCF A</span>
