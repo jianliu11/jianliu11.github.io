@@ -16,7 +16,7 @@ Secure Inference
 ------
 -	Xiaoyang Hou, **Jian Liu\***, Jingyu Li, Yuhan Li, Wen-jie Lu, Cheng Hong, Kui Ren. *[CipherGPT: Secure Two-Party GPT Inference](https://eprint.iacr.org/2023/1147)*. under submission
 -	Jiawen Zhang, Xinpeng Yang, Lipeng He, Kejia Chen, Wen-jie Lu, Yinghao Wang,  Xiaoyang Hou, **Jian Liu\***, Kui Ren, Xiaohu Yang. *[Secure Transformer Inference Made Non-interactive](https://eprint.iacr.org/2024/136.pdf)*. **NDSS 2025**<span class="tag tag-a">CCF A</span>
-- Wen-jie Lu, Zhicong Huang, Zhen Gu, Jingyu Li, **Jian Liu**, Cheng Hong, Kui Ren, Tao Wei, WenGuang Chen. *[Bumblebee: Secure two-party inference framework for large transformers](https://www.ndss-symposium.org/wp-content/uploads/2025-57-paper.pdf)*. **NDSS 2025**<span class="tag tag-a">CCF A</span>
+- Wen-jie Lu, Zhicong Huang, Zhen Gu, Jingyu Li, **Jian Liu**, Cheng Hong, Kui Ren, Tao Wei, Wenguang Chen. *[Bumblebee: Secure two-party inference framework for large transformers](https://www.ndss-symposium.org/wp-content/uploads/2025-57-paper.pdf)*. **NDSS 2025**<span class="tag tag-a">CCF A</span>
 -	Agnes Kiss, Masoud Naderpour, **Jian Liu**, N. Asokan and Thomas Schneider. *[SoK: Modular and Efficient Private Decision Tree Evaluation](https://eprint.iacr.org/2018/1099)*. PETS 2019
 -	**Jian Liu**, Mika Juuti, Yao Lu, N. Asokan. *[Oblivious Neural Network Predictions via MiniONN Transformations](https://eprint.iacr.org/2017/452)*. **ACM CCS 2017**<span class="tag tag-a">CCF A</span>
 
