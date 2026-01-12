@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I have been a ZJU100 Young Professor at Zhejiang University since November 2019.
-Before that, I was a postdoctoral researcher at [University of California, Berkeley](https://berkeley.edu), working with [Prof. Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/). 
-I got my PhD in July 2018 from [Aalto University](https://aalto.fi), working with [Prof. N. Asokan](https://asokan.org/asokan/).
-
+I am a tenured Associate Professor in Computer Science at Zhejiang University. 
+Before joining Zhejiang University, I was a postdoctoral researcher at [University of California, Berkeley](https://berkeley.edu), working with [Prof. Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/). 
+I received my PhD in July 2018 from [Aalto University](https://aalto.fi) under the supervision of [Prof. N. Asokan](https://asokan.org/asokan/). 
 
 Research Interests
 ======
