@@ -21,7 +21,6 @@ My research is on:
 - Machine Learning
 
 I am interested in building real-world systems that are provably secure, easy to use and inexpensive to deploy.
-I am the director of [ABC Lab](https://zju-abc.com).
 
 
 Job Openings
