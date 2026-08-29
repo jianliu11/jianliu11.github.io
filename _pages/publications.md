@@ -8,6 +8,7 @@ author_profile: true
 
 Private Information Retrieval
 ------
+-	Pan Xiao, Heng Zhang, Rending Ouyang, Cong Zhang, **Jian Liu\***, Kui Ren, Chun Chen. *[Towards Making Doubly-Efficient PIR Practical](https://eprint.iacr.org/2026/243)*. **AsiaCrypt 2026**
 -	**Jian Liu\***, Jingyu Li, Di Wu, Kui Ren. *[PIRANA: Faster Multi-query PIR via Constant-weight Codes](https://eprint.iacr.org/2022/1401)*. **IEEE S&P (Oakland) 2024**<span class="tag tag-a">CCF A</span>
 -	Agnes Kiss, **Jian Liu**, Thomas Schneider, N. Asokan, Benny Pinkas. *[Private Set Intersection for Unequal Set Sizes with Mobile Applications](https://eprint.iacr.org/2017/670)*. PETS 2017
 -	Sandeep Tamrakar, **Jian Liu**, Andrew Paverd, Jan-Erik Ekberg, Benny Pinkas, N. Asokan. *[The Circle Game: Scalable Private Membership Test Using Trusted Hardware](https://arxiv.org/abs/1606.01655)*. ASIACCS 2017<span class="tag tag-c">Honorable Mention</span><span class="tag tag-c">CSAW Europe (top 10)</span>
